@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "_PlatziWeb_": {
+    "_platziwebsite_": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
