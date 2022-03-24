@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/igg/desarrollo/wokspace-vscode/PuntoNet/platziwebsite/“PlatziWeb”.csproj",
-      "projectName": "“PlatziWeb”",
-      "projectPath": "/home/igg/desarrollo/wokspace-vscode/PuntoNet/platziwebsite/“PlatziWeb”.csproj",
+      "projectUniqueName": "/home/igg/desarrollo/wokspace-vscode/PuntoNet/platziwebsite/platziwebsite.csproj",
+      "projectName": "platziwebsite",
+      "projectPath": "/home/igg/desarrollo/wokspace-vscode/PuntoNet/platziwebsite/platziwebsite.csproj",
       "packagesPath": "/home/igg/.nuget/packages/",
       "outputPath": "/home/igg/desarrollo/wokspace-vscode/PuntoNet/platziwebsite/obj/",
       "projectStyle": "PackageReference",

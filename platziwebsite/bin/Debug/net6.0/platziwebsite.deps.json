@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "“PlatziWeb”/1.0.0": {
+      "platziwebsite/1.0.0": {
         "runtime": {
-          "“PlatziWeb”.dll": {}
+          "platziwebsite.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "“PlatziWeb”/1.0.0": {
+    "platziwebsite/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
